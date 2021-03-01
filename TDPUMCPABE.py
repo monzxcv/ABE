@@ -6,8 +6,7 @@
 |
 | type:           ciphertext-policy attribute-based encryption
 | setting:        Pairing
-
-:Authors:         hiwei
+:Authors:         junwei
 :Date:            7/2020
 '''
 
