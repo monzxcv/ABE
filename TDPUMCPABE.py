@@ -2,7 +2,7 @@
 
 '''
 
-| Security Assumption: Decisional q-Parallel Bilinear Diffie-Hellman Exponent
+| Security Assumption: q-type
 |
 | type:           ciphertext-policy attribute-based encryption
 | setting:        Pairing
